@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I am
+#### Mike Petrov
+##### Frontend Developer
 
 <!--
 **mike-petrov/mike-petrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
