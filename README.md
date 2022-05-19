@@ -4,6 +4,6 @@
 
 ▪ Founder of [Syntax](https://dev-syntax.ru/) | Development studio
 
-▪ Launched educational startup [Tensy](https://tensy.io/) in Russia
+▪ Launched educational startup [Tensy](https://tensy.io/)
 
 📫 More: [mikepetrov.ru](https://mikepetrov.ru)
