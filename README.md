@@ -7,3 +7,5 @@
 ▪ Launched educational startup [Tensy](https://tensy.io/)
 
 📫 More: [mikepetrov.ru](https://mikepetrov.ru)
+
+![](https://komarev.com/ghpvc/?username=mike-petrov)
