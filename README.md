@@ -8,6 +8,6 @@
 
 ▪ Developing smart shopping assistant / [Styletyx](https://styletyx.com/) 
 
-📫 More: [mikepetrov.ru](https://mikepetrov.ru)
+📫 More: [mikepetrov.ru](https://mikepetrov.com)
 
 ![](https://komarev.com/ghpvc/?username=mike-petrov)
