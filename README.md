@@ -6,7 +6,7 @@
 
 ▪ ex-CTO [Styletyx](https://styletyx.com/?ref=github_profile) / Smart shopping assistant, Product of the Day on Product Hunt
 
-▪ ex-Middle Frontend Developer @ [Tensy](https://tensy.org/?ref=github_profile) / EdTech startup helping students get instant homework support
+▪ ex-Middle Frontend Developer [Tensy](https://tensy.org/?ref=github_profile) / EdTech startup helping students get instant homework support
 
 ▪ 15+ [hackathons](https://github.com/mike-petrov/hackathons) wins across international competitions 🏆
 
